@@ -8,8 +8,7 @@
 - 🔭 I’m currently building high-performance web applications entirely in **Next.js**.
 - 🌱 Deep diving into the **App Router, Server Components, and SSR/SSG**.
 - 💬 Ask me about **Next.js, React ecosystem, and frontend optimization**.
-- 📫 How to reach me:
-- connect on <p align="center">
+- 📫 How to reach me:<p align="left">
   <a href="https://www.linkedin.com/in/vansh-garg-a79219321/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
